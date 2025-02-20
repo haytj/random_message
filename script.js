@@ -77,8 +77,4 @@ const randMsg = () => {
 };
 
 
-
-
-//console.log(randPrefix + ' ' + msgFour[randSuffix] + '.');
-//console.log(randSuffix);
 randMsg();
